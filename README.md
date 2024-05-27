@@ -22,7 +22,7 @@ You are free to use these figures for academic and research purposes. For any ot
 ## Contact
 
 For any questions or further information, please contact:
-- [C. Georgiou](chryssis@ucy.ac.cy)
-- [N. Nicolaou](nicolas@algolysis.com)
-- [A. Trigeorgi](atrige01@ucy.ac.cy)
+- [C. Georgiou](mailto:chryssis@ucy.ac.cy)
+- [N. Nicolaou](mailto:nicolas@algolysis.com)
+- [A. Trigeorgi](mailto:atrige01@ucy.ac.cy)
 
